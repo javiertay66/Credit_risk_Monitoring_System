@@ -26,6 +26,7 @@ This project is structured to mimic a production-grade ETL pipeline:
 ├── 📁 dashboard/               # Executive Risk Dashboard (.pbix) & Snapshots
 ├── 📁 scripts/                 # The Python ETL & Calculation Engine (Steps 1-4)
 └── README.md                   # System Documentation
+```
 
 ⚙️ The Engineering Pipeline
 The system follows a strict 4-step operational workflow, automated via Python scripts in the scripts/ folder.
