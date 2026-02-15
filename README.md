@@ -143,6 +143,9 @@ The final output is the **Credit Risk Command Center**.
 - **Scalability:** Modular design supports additional risk metrics
 
  ## Author:
-**Javier Tay Yu Xiang
-**NTU Year 3 Economics & Data Science
-**Aspiring Operations Analyst 
+ 
+**Javier Tay Yu Xiang**
+
+**NTU Year 3 Economics & Data Science**
+
+**Aspiring Operations Analyst** 
