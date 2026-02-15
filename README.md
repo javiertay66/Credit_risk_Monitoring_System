@@ -142,7 +142,7 @@ The final output is the **Credit Risk Command Center**.
 - **Compliance:** IFRS 9 and Basel III aligned calculations
 - **Scalability:** Modular design supports additional risk metrics
 
-Author:
-Javier Tay Yu Xiang
-NTU Year 3 Economics & Data Science
-Aspiring Operations Analyst 
+ ## Author:
+**Javier Tay Yu Xiang
+**NTU Year 3 Economics & Data Science
+**Aspiring Operations Analyst 
